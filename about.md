@@ -1,0 +1,1 @@
+Makes the **Weight Brush** work on low-poly meshes. It adds a **Strength** slider to the brush toolbar (default 25%), and erasing (Ctrl) hands the weight to the **parent bone**, so points never end up on no bone. Example: Ctrl-paint the back of an eyelid off `lid_l` and it stays with `head`.
